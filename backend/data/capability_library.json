@@ -1,0 +1,1072 @@
+[
+  {
+    "id": "CAP-001",
+    "title": "Project 1: Cybersecurity deployment for client",
+    "description": "Completed deployment of Cybersecurity system. Details: Project 1: Cybersecurity deployment for client. Client Type: International. Duration: 34 months.",
+    "sector": "Cybersecurity",
+    "client_type": "International",
+    "year_completed": 2023,
+    "contract_value": 15000000.0,
+    "currency": "PKR",
+    "duration_months": 34,
+    "certifications": [
+      "ISO 27001"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "cybersecurity",
+      "international",
+      "iso 27001"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-002",
+    "title": "Project 2: ERP Implementation deployment for client",
+    "description": "Completed deployment of ERP Implementation system. Details: Project 2: ERP Implementation deployment for client. Client Type: Federal Govt. Duration: 14 months.",
+    "sector": "ERP Implementation",
+    "client_type": "Federal Govt",
+    "year_completed": 2021,
+    "contract_value": 159000000.0,
+    "currency": "PKR",
+    "duration_months": 14,
+    "certifications": [],
+    "team_size": 12,
+    "keywords": [
+      "erp implementation",
+      "federal govt"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-003",
+    "title": "Project 3: Road Construction deployment for client",
+    "description": "Completed deployment of Road Construction system. Details: Project 3: Road Construction deployment for client. Client Type: Federal Govt. Duration: 32 months.",
+    "sector": "Road Construction",
+    "client_type": "Federal Govt",
+    "year_completed": 2020,
+    "contract_value": 177000000.0,
+    "currency": "PKR",
+    "duration_months": 32,
+    "certifications": [
+      "ISO 27001"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "road construction",
+      "federal govt",
+      "iso 27001"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-004",
+    "title": "Project 4: Bridge Engineering deployment for client",
+    "description": "Completed deployment of Bridge Engineering system. Details: Project 4: Bridge Engineering deployment for client. Client Type: Federal Govt. Duration: 24 months.",
+    "sector": "Bridge Engineering",
+    "client_type": "Federal Govt",
+    "year_completed": 2025,
+    "contract_value": 73000000.0,
+    "currency": "PKR",
+    "duration_months": 24,
+    "certifications": [],
+    "team_size": 12,
+    "keywords": [
+      "bridge engineering",
+      "federal govt"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-005",
+    "title": "Project 5: Fleet Management deployment for client",
+    "description": "Completed deployment of Fleet Management system. Details: Project 5: Fleet Management deployment for client. Client Type: International. Duration: 26 months.",
+    "sector": "Fleet Management",
+    "client_type": "International",
+    "year_completed": 2022,
+    "contract_value": 137000000.0,
+    "currency": "PKR",
+    "duration_months": 26,
+    "certifications": [
+      "PMP"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "fleet management",
+      "international",
+      "pmp"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-006",
+    "title": "Project 6: Hospital IT deployment for client",
+    "description": "Completed deployment of Hospital IT system. Details: Project 6: Hospital IT deployment for client. Client Type: International. Duration: 19 months.",
+    "sector": "Hospital IT",
+    "client_type": "International",
+    "year_completed": 2020,
+    "contract_value": 154000000.0,
+    "currency": "PKR",
+    "duration_months": 19,
+    "certifications": [
+      "CMMI L3"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "hospital it",
+      "international",
+      "cmmi l3"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-007",
+    "title": "Project 7: Medical Equipment deployment for client",
+    "description": "Completed deployment of Medical Equipment system. Details: Project 7: Medical Equipment deployment for client. Client Type: Private Sector. Duration: 19 months.",
+    "sector": "Medical Equipment",
+    "client_type": "Private Sector",
+    "year_completed": 2022,
+    "contract_value": 94000000.0,
+    "currency": "PKR",
+    "duration_months": 19,
+    "certifications": [
+      "ISO 27001"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "medical equipment",
+      "private sector",
+      "iso 27001"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-008",
+    "title": "Project 8: Solar Energy deployment for client",
+    "description": "Completed deployment of Solar Energy system. Details: Project 8: Solar Energy deployment for client. Client Type: Provincial Govt. Duration: 33 months.",
+    "sector": "Solar Energy",
+    "client_type": "Provincial Govt",
+    "year_completed": 2024,
+    "contract_value": 31000000.0,
+    "currency": "PKR",
+    "duration_months": 33,
+    "certifications": [
+      "CMMI L3"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "solar energy",
+      "provincial govt",
+      "cmmi l3"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-009",
+    "title": "Project 9: Network Design deployment for client",
+    "description": "Completed deployment of Network Design system. Details: Project 9: Network Design deployment for client. Client Type: Private Sector. Duration: 21 months.",
+    "sector": "Network Design",
+    "client_type": "Private Sector",
+    "year_completed": 2022,
+    "contract_value": 182000000.0,
+    "currency": "PKR",
+    "duration_months": 21,
+    "certifications": [
+      "CMMI L3"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "network design",
+      "private sector",
+      "cmmi l3"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-010",
+    "title": "Project 10: LMS Development deployment for client",
+    "description": "Completed deployment of LMS Development system. Details: Project 10: LMS Development deployment for client. Client Type: Federal Govt. Duration: 23 months.",
+    "sector": "LMS Development",
+    "client_type": "Federal Govt",
+    "year_completed": 2022,
+    "contract_value": 199000000.0,
+    "currency": "PKR",
+    "duration_months": 23,
+    "certifications": [],
+    "team_size": 12,
+    "keywords": [
+      "lms development",
+      "federal govt"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-011",
+    "title": "Project 11: Mobile Banking deployment for client",
+    "description": "Completed deployment of Mobile Banking system. Details: Project 11: Mobile Banking deployment for client. Client Type: Private Sector. Duration: 14 months.",
+    "sector": "Mobile Banking",
+    "client_type": "Private Sector",
+    "year_completed": 2019,
+    "contract_value": 85000000.0,
+    "currency": "PKR",
+    "duration_months": 14,
+    "certifications": [
+      "CE Mark"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "mobile banking",
+      "private sector",
+      "ce mark"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-012",
+    "title": "Project 12: Cloud Infrastructure deployment for client",
+    "description": "Completed deployment of Cloud Infrastructure system. Details: Project 12: Cloud Infrastructure deployment for client. Client Type: Federal Govt. Duration: 33 months.",
+    "sector": "Cloud Infrastructure",
+    "client_type": "Federal Govt",
+    "year_completed": 2025,
+    "contract_value": 108000000.0,
+    "currency": "PKR",
+    "duration_months": 33,
+    "certifications": [
+      "ISO 27001"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "cloud infrastructure",
+      "federal govt",
+      "iso 27001"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-013",
+    "title": "Project 13: Cybersecurity deployment for client",
+    "description": "Completed deployment of Cybersecurity system. Details: Project 13: Cybersecurity deployment for client. Client Type: International. Duration: 20 months.",
+    "sector": "Cybersecurity",
+    "client_type": "International",
+    "year_completed": 2025,
+    "contract_value": 143000000.0,
+    "currency": "PKR",
+    "duration_months": 20,
+    "certifications": [],
+    "team_size": 12,
+    "keywords": [
+      "cybersecurity",
+      "international"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-014",
+    "title": "Project 14: ERP Implementation deployment for client",
+    "description": "Completed deployment of ERP Implementation system. Details: Project 14: ERP Implementation deployment for client. Client Type: International. Duration: 17 months.",
+    "sector": "ERP Implementation",
+    "client_type": "International",
+    "year_completed": 2020,
+    "contract_value": 137000000.0,
+    "currency": "PKR",
+    "duration_months": 17,
+    "certifications": [
+      "ISO 27001"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "erp implementation",
+      "international",
+      "iso 27001"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-015",
+    "title": "Project 15: Road Construction deployment for client",
+    "description": "Completed deployment of Road Construction system. Details: Project 15: Road Construction deployment for client. Client Type: Provincial Govt. Duration: 7 months.",
+    "sector": "Road Construction",
+    "client_type": "Provincial Govt",
+    "year_completed": 2022,
+    "contract_value": 199000000.0,
+    "currency": "PKR",
+    "duration_months": 7,
+    "certifications": [],
+    "team_size": 12,
+    "keywords": [
+      "road construction",
+      "provincial govt"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-016",
+    "title": "Project 16: Bridge Engineering deployment for client",
+    "description": "Completed deployment of Bridge Engineering system. Details: Project 16: Bridge Engineering deployment for client. Client Type: Private Sector. Duration: 35 months.",
+    "sector": "Bridge Engineering",
+    "client_type": "Private Sector",
+    "year_completed": 2023,
+    "contract_value": 38000000.0,
+    "currency": "PKR",
+    "duration_months": 35,
+    "certifications": [
+      "CMMI L3"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "bridge engineering",
+      "private sector",
+      "cmmi l3"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-017",
+    "title": "Project 17: Fleet Management deployment for client",
+    "description": "Completed deployment of Fleet Management system. Details: Project 17: Fleet Management deployment for client. Client Type: Federal Govt. Duration: 9 months.",
+    "sector": "Fleet Management",
+    "client_type": "Federal Govt",
+    "year_completed": 2024,
+    "contract_value": 129000000.0,
+    "currency": "PKR",
+    "duration_months": 9,
+    "certifications": [
+      "CE Mark"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "fleet management",
+      "federal govt",
+      "ce mark"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-018",
+    "title": "Project 18: Hospital IT deployment for client",
+    "description": "Completed deployment of Hospital IT system. Details: Project 18: Hospital IT deployment for client. Client Type: Provincial Govt. Duration: 28 months.",
+    "sector": "Hospital IT",
+    "client_type": "Provincial Govt",
+    "year_completed": 2023,
+    "contract_value": 66000000.0,
+    "currency": "PKR",
+    "duration_months": 28,
+    "certifications": [],
+    "team_size": 12,
+    "keywords": [
+      "hospital it",
+      "provincial govt"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-019",
+    "title": "Project 19: Medical Equipment deployment for client",
+    "description": "Completed deployment of Medical Equipment system. Details: Project 19: Medical Equipment deployment for client. Client Type: International. Duration: 23 months.",
+    "sector": "Medical Equipment",
+    "client_type": "International",
+    "year_completed": 2023,
+    "contract_value": 8000000.0,
+    "currency": "PKR",
+    "duration_months": 23,
+    "certifications": [
+      "CMMI L3"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "medical equipment",
+      "international",
+      "cmmi l3"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-020",
+    "title": "Project 20: Solar Energy deployment for client",
+    "description": "Completed deployment of Solar Energy system. Details: Project 20: Solar Energy deployment for client. Client Type: Federal Govt. Duration: 20 months.",
+    "sector": "Solar Energy",
+    "client_type": "Federal Govt",
+    "year_completed": 2020,
+    "contract_value": 34000000.0,
+    "currency": "PKR",
+    "duration_months": 20,
+    "certifications": [
+      "ISO 27001"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "solar energy",
+      "federal govt",
+      "iso 27001"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-021",
+    "title": "Project 21: Network Design deployment for client",
+    "description": "Completed deployment of Network Design system. Details: Project 21: Network Design deployment for client. Client Type: Private Sector. Duration: 21 months.",
+    "sector": "Network Design",
+    "client_type": "Private Sector",
+    "year_completed": 2025,
+    "contract_value": 44000000.0,
+    "currency": "PKR",
+    "duration_months": 21,
+    "certifications": [],
+    "team_size": 12,
+    "keywords": [
+      "network design",
+      "private sector"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-022",
+    "title": "Project 22: LMS Development deployment for client",
+    "description": "Completed deployment of LMS Development system. Details: Project 22: LMS Development deployment for client. Client Type: International. Duration: 19 months.",
+    "sector": "LMS Development",
+    "client_type": "International",
+    "year_completed": 2024,
+    "contract_value": 74000000.0,
+    "currency": "PKR",
+    "duration_months": 19,
+    "certifications": [
+      "ISO 9001"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "lms development",
+      "international",
+      "iso 9001"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-023",
+    "title": "Project 23: Mobile Banking deployment for client",
+    "description": "Completed deployment of Mobile Banking system. Details: Project 23: Mobile Banking deployment for client. Client Type: Provincial Govt. Duration: 23 months.",
+    "sector": "Mobile Banking",
+    "client_type": "Provincial Govt",
+    "year_completed": 2020,
+    "contract_value": 121000000.0,
+    "currency": "PKR",
+    "duration_months": 23,
+    "certifications": [
+      "CE Mark"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "mobile banking",
+      "provincial govt",
+      "ce mark"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-024",
+    "title": "Project 24: Cloud Infrastructure deployment for client",
+    "description": "Completed deployment of Cloud Infrastructure system. Details: Project 24: Cloud Infrastructure deployment for client. Client Type: Provincial Govt. Duration: 22 months.",
+    "sector": "Cloud Infrastructure",
+    "client_type": "Provincial Govt",
+    "year_completed": 2020,
+    "contract_value": 158000000.0,
+    "currency": "PKR",
+    "duration_months": 22,
+    "certifications": [
+      "CE Mark"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "cloud infrastructure",
+      "provincial govt",
+      "ce mark"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-025",
+    "title": "Project 25: Cybersecurity deployment for client",
+    "description": "Completed deployment of Cybersecurity system. Details: Project 25: Cybersecurity deployment for client. Client Type: Private Sector. Duration: 16 months.",
+    "sector": "Cybersecurity",
+    "client_type": "Private Sector",
+    "year_completed": 2021,
+    "contract_value": 111000000.0,
+    "currency": "PKR",
+    "duration_months": 16,
+    "certifications": [
+      "ISO 27001"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "cybersecurity",
+      "private sector",
+      "iso 27001"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-026",
+    "title": "Project 26: ERP Implementation deployment for client",
+    "description": "Completed deployment of ERP Implementation system. Details: Project 26: ERP Implementation deployment for client. Client Type: International. Duration: 15 months.",
+    "sector": "ERP Implementation",
+    "client_type": "International",
+    "year_completed": 2021,
+    "contract_value": 190000000.0,
+    "currency": "PKR",
+    "duration_months": 15,
+    "certifications": [
+      "ISO 27001"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "erp implementation",
+      "international",
+      "iso 27001"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-027",
+    "title": "Project 27: Road Construction deployment for client",
+    "description": "Completed deployment of Road Construction system. Details: Project 27: Road Construction deployment for client. Client Type: Private Sector. Duration: 21 months.",
+    "sector": "Road Construction",
+    "client_type": "Private Sector",
+    "year_completed": 2022,
+    "contract_value": 142000000.0,
+    "currency": "PKR",
+    "duration_months": 21,
+    "certifications": [
+      "PMP"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "road construction",
+      "private sector",
+      "pmp"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-028",
+    "title": "Project 28: Bridge Engineering deployment for client",
+    "description": "Completed deployment of Bridge Engineering system. Details: Project 28: Bridge Engineering deployment for client. Client Type: International. Duration: 23 months.",
+    "sector": "Bridge Engineering",
+    "client_type": "International",
+    "year_completed": 2023,
+    "contract_value": 200000000.0,
+    "currency": "PKR",
+    "duration_months": 23,
+    "certifications": [
+      "CMMI L3"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "bridge engineering",
+      "international",
+      "cmmi l3"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-029",
+    "title": "Project 29: Fleet Management deployment for client",
+    "description": "Completed deployment of Fleet Management system. Details: Project 29: Fleet Management deployment for client. Client Type: Provincial Govt. Duration: 28 months.",
+    "sector": "Fleet Management",
+    "client_type": "Provincial Govt",
+    "year_completed": 2021,
+    "contract_value": 53000000.0,
+    "currency": "PKR",
+    "duration_months": 28,
+    "certifications": [
+      "CE Mark"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "fleet management",
+      "provincial govt",
+      "ce mark"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-030",
+    "title": "Project 30: Hospital IT deployment for client",
+    "description": "Completed deployment of Hospital IT system. Details: Project 30: Hospital IT deployment for client. Client Type: International. Duration: 33 months.",
+    "sector": "Hospital IT",
+    "client_type": "International",
+    "year_completed": 2022,
+    "contract_value": 64000000.0,
+    "currency": "PKR",
+    "duration_months": 33,
+    "certifications": [
+      "ISO 9001"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "hospital it",
+      "international",
+      "iso 9001"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-031",
+    "title": "Project 31: Medical Equipment deployment for client",
+    "description": "Completed deployment of Medical Equipment system. Details: Project 31: Medical Equipment deployment for client. Client Type: International. Duration: 21 months.",
+    "sector": "Medical Equipment",
+    "client_type": "International",
+    "year_completed": 2021,
+    "contract_value": 195000000.0,
+    "currency": "PKR",
+    "duration_months": 21,
+    "certifications": [
+      "ISO 27001"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "medical equipment",
+      "international",
+      "iso 27001"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-032",
+    "title": "Project 32: Solar Energy deployment for client",
+    "description": "Completed deployment of Solar Energy system. Details: Project 32: Solar Energy deployment for client. Client Type: International. Duration: 10 months.",
+    "sector": "Solar Energy",
+    "client_type": "International",
+    "year_completed": 2024,
+    "contract_value": 171000000.0,
+    "currency": "PKR",
+    "duration_months": 10,
+    "certifications": [
+      "CE Mark"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "solar energy",
+      "international",
+      "ce mark"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-033",
+    "title": "Project 33: Network Design deployment for client",
+    "description": "Completed deployment of Network Design system. Details: Project 33: Network Design deployment for client. Client Type: Private Sector. Duration: 36 months.",
+    "sector": "Network Design",
+    "client_type": "Private Sector",
+    "year_completed": 2020,
+    "contract_value": 133000000.0,
+    "currency": "PKR",
+    "duration_months": 36,
+    "certifications": [
+      "ISO 27001"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "network design",
+      "private sector",
+      "iso 27001"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-034",
+    "title": "Project 34: LMS Development deployment for client",
+    "description": "Completed deployment of LMS Development system. Details: Project 34: LMS Development deployment for client. Client Type: International. Duration: 9 months.",
+    "sector": "LMS Development",
+    "client_type": "International",
+    "year_completed": 2025,
+    "contract_value": 117000000.0,
+    "currency": "PKR",
+    "duration_months": 9,
+    "certifications": [
+      "ISO 27001"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "lms development",
+      "international",
+      "iso 27001"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-035",
+    "title": "Project 35: Mobile Banking deployment for client",
+    "description": "Completed deployment of Mobile Banking system. Details: Project 35: Mobile Banking deployment for client. Client Type: Provincial Govt. Duration: 19 months.",
+    "sector": "Mobile Banking",
+    "client_type": "Provincial Govt",
+    "year_completed": 2024,
+    "contract_value": 41000000.0,
+    "currency": "PKR",
+    "duration_months": 19,
+    "certifications": [
+      "ISO 27001"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "mobile banking",
+      "provincial govt",
+      "iso 27001"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-036",
+    "title": "Project 36: Cloud Infrastructure deployment for client",
+    "description": "Completed deployment of Cloud Infrastructure system. Details: Project 36: Cloud Infrastructure deployment for client. Client Type: International. Duration: 16 months.",
+    "sector": "Cloud Infrastructure",
+    "client_type": "International",
+    "year_completed": 2022,
+    "contract_value": 72000000.0,
+    "currency": "PKR",
+    "duration_months": 16,
+    "certifications": [
+      "ISO 27001"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "cloud infrastructure",
+      "international",
+      "iso 27001"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-037",
+    "title": "Project 37: Cybersecurity deployment for client",
+    "description": "Completed deployment of Cybersecurity system. Details: Project 37: Cybersecurity deployment for client. Client Type: International. Duration: 33 months.",
+    "sector": "Cybersecurity",
+    "client_type": "International",
+    "year_completed": 2019,
+    "contract_value": 89000000.0,
+    "currency": "PKR",
+    "duration_months": 33,
+    "certifications": [],
+    "team_size": 12,
+    "keywords": [
+      "cybersecurity",
+      "international"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-038",
+    "title": "Project 38: ERP Implementation deployment for client",
+    "description": "Completed deployment of ERP Implementation system. Details: Project 38: ERP Implementation deployment for client. Client Type: International. Duration: 34 months.",
+    "sector": "ERP Implementation",
+    "client_type": "International",
+    "year_completed": 2024,
+    "contract_value": 188000000.0,
+    "currency": "PKR",
+    "duration_months": 34,
+    "certifications": [
+      "CMMI L3"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "erp implementation",
+      "international",
+      "cmmi l3"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-039",
+    "title": "Project 39: Road Construction deployment for client",
+    "description": "Completed deployment of Road Construction system. Details: Project 39: Road Construction deployment for client. Client Type: Provincial Govt. Duration: 8 months.",
+    "sector": "Road Construction",
+    "client_type": "Provincial Govt",
+    "year_completed": 2019,
+    "contract_value": 163000000.0,
+    "currency": "PKR",
+    "duration_months": 8,
+    "certifications": [
+      "ISO 9001"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "road construction",
+      "provincial govt",
+      "iso 9001"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-040",
+    "title": "Project 40: Bridge Engineering deployment for client",
+    "description": "Completed deployment of Bridge Engineering system. Details: Project 40: Bridge Engineering deployment for client. Client Type: Federal Govt. Duration: 13 months.",
+    "sector": "Bridge Engineering",
+    "client_type": "Federal Govt",
+    "year_completed": 2024,
+    "contract_value": 78000000.0,
+    "currency": "PKR",
+    "duration_months": 13,
+    "certifications": [],
+    "team_size": 12,
+    "keywords": [
+      "bridge engineering",
+      "federal govt"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-041",
+    "title": "Project 41: Fleet Management deployment for client",
+    "description": "Completed deployment of Fleet Management system. Details: Project 41: Fleet Management deployment for client. Client Type: Federal Govt. Duration: 26 months.",
+    "sector": "Fleet Management",
+    "client_type": "Federal Govt",
+    "year_completed": 2019,
+    "contract_value": 199000000.0,
+    "currency": "PKR",
+    "duration_months": 26,
+    "certifications": [
+      "CE Mark"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "fleet management",
+      "federal govt",
+      "ce mark"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-042",
+    "title": "Project 42: Hospital IT deployment for client",
+    "description": "Completed deployment of Hospital IT system. Details: Project 42: Hospital IT deployment for client. Client Type: Federal Govt. Duration: 15 months.",
+    "sector": "Hospital IT",
+    "client_type": "Federal Govt",
+    "year_completed": 2020,
+    "contract_value": 182000000.0,
+    "currency": "PKR",
+    "duration_months": 15,
+    "certifications": [
+      "CE Mark"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "hospital it",
+      "federal govt",
+      "ce mark"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-043",
+    "title": "Project 43: Medical Equipment deployment for client",
+    "description": "Completed deployment of Medical Equipment system. Details: Project 43: Medical Equipment deployment for client. Client Type: Private Sector. Duration: 15 months.",
+    "sector": "Medical Equipment",
+    "client_type": "Private Sector",
+    "year_completed": 2021,
+    "contract_value": 19000000.0,
+    "currency": "PKR",
+    "duration_months": 15,
+    "certifications": [
+      "ISO 27001"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "medical equipment",
+      "private sector",
+      "iso 27001"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-044",
+    "title": "Project 44: Solar Energy deployment for client",
+    "description": "Completed deployment of Solar Energy system. Details: Project 44: Solar Energy deployment for client. Client Type: International. Duration: 13 months.",
+    "sector": "Solar Energy",
+    "client_type": "International",
+    "year_completed": 2022,
+    "contract_value": 42000000.0,
+    "currency": "PKR",
+    "duration_months": 13,
+    "certifications": [
+      "CMMI L3"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "solar energy",
+      "international",
+      "cmmi l3"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-045",
+    "title": "Project 45: Network Design deployment for client",
+    "description": "Completed deployment of Network Design system. Details: Project 45: Network Design deployment for client. Client Type: Provincial Govt. Duration: 11 months.",
+    "sector": "Network Design",
+    "client_type": "Provincial Govt",
+    "year_completed": 2024,
+    "contract_value": 51000000.0,
+    "currency": "PKR",
+    "duration_months": 11,
+    "certifications": [
+      "ISO 9001"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "network design",
+      "provincial govt",
+      "iso 9001"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-046",
+    "title": "Project 46: LMS Development deployment for client",
+    "description": "Completed deployment of LMS Development system. Details: Project 46: LMS Development deployment for client. Client Type: International. Duration: 25 months.",
+    "sector": "LMS Development",
+    "client_type": "International",
+    "year_completed": 2023,
+    "contract_value": 102000000.0,
+    "currency": "PKR",
+    "duration_months": 25,
+    "certifications": [
+      "ISO 27001"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "lms development",
+      "international",
+      "iso 27001"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-047",
+    "title": "Project 47: Mobile Banking deployment for client",
+    "description": "Completed deployment of Mobile Banking system. Details: Project 47: Mobile Banking deployment for client. Client Type: International. Duration: 13 months.",
+    "sector": "Mobile Banking",
+    "client_type": "International",
+    "year_completed": 2023,
+    "contract_value": 41000000.0,
+    "currency": "PKR",
+    "duration_months": 13,
+    "certifications": [
+      "CE Mark"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "mobile banking",
+      "international",
+      "ce mark"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-048",
+    "title": "Project 48: Cloud Infrastructure deployment for client",
+    "description": "Completed deployment of Cloud Infrastructure system. Details: Project 48: Cloud Infrastructure deployment for client. Client Type: Federal Govt. Duration: 14 months.",
+    "sector": "Cloud Infrastructure",
+    "client_type": "Federal Govt",
+    "year_completed": 2021,
+    "contract_value": 122000000.0,
+    "currency": "PKR",
+    "duration_months": 14,
+    "certifications": [],
+    "team_size": 12,
+    "keywords": [
+      "cloud infrastructure",
+      "federal govt"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-049",
+    "title": "Project 49: Cybersecurity deployment for client",
+    "description": "Completed deployment of Cybersecurity system. Details: Project 49: Cybersecurity deployment for client. Client Type: Provincial Govt. Duration: 23 months.",
+    "sector": "Cybersecurity",
+    "client_type": "Provincial Govt",
+    "year_completed": 2021,
+    "contract_value": 178000000.0,
+    "currency": "PKR",
+    "duration_months": 23,
+    "certifications": [
+      "CE Mark"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "cybersecurity",
+      "provincial govt",
+      "ce mark"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  },
+  {
+    "id": "CAP-050",
+    "title": "Project 50: ERP Implementation deployment for client",
+    "description": "Completed deployment of ERP Implementation system. Details: Project 50: ERP Implementation deployment for client. Client Type: Private Sector. Duration: 24 months.",
+    "sector": "ERP Implementation",
+    "client_type": "Private Sector",
+    "year_completed": 2022,
+    "contract_value": 93000000.0,
+    "currency": "PKR",
+    "duration_months": 24,
+    "certifications": [
+      "ISO 27001"
+    ],
+    "team_size": 12,
+    "keywords": [
+      "erp implementation",
+      "private sector",
+      "iso 27001"
+    ],
+    "outcome": "Project successfully verified and approved by the evaluation committee.",
+    "client_reference_available": true
+  }
+]

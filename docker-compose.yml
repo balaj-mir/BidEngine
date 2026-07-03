@@ -1,0 +1,155 @@
+version: '3.8'
+
+services:
+  mongodb:
+    image: mongo:7
+    container_name: bidengine_mongodb
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    networks:
+      - bid_network
+    healthcheck:
+      test: ["CMD", "mongosh", "--eval", "db.adminCommand('ping')"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  redis:
+    image: redis:7-alpine
+    container_name: bidengine_redis
+    ports:
+      - "6379:6379"
+    networks:
+      - bid_network
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  chromadb:
+    image: chromadb/chroma:latest
+    container_name: bidengine_chromadb
+    ports:
+      - "8001:8000"
+    volumes:
+      - chroma_data:/chroma/data
+    networks:
+      - bid_network
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:8000/api/v1/heartbeat || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: bidengine_backend
+    ports:
+      - "8000:8000"
+    environment:
+      - MONGODB_URL=mongodb://mongodb:27017/bidengine
+      - REDIS_URL=redis://redis:6379/0
+      - CHROMA_HOST=chromadb
+      - CHROMA_PORT=8000
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - LLM_PROVIDER=gemini
+      - MODEL_NAME=gemini-1.5-flash
+    depends_on:
+      mongodb:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      chromadb:
+        condition: service_healthy
+    networks:
+      - bid_network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  celery_worker:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: bidengine_celery
+    command: celery -A workers.celery_app worker --loglevel=info --concurrency=4
+    environment:
+      - MONGODB_URL=mongodb://mongodb:27017/bidengine
+      - REDIS_URL=redis://redis:6379/0
+      - CHROMA_HOST=chromadb
+      - CHROMA_PORT=8000
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - LLM_PROVIDER=gemini
+      - MODEL_NAME=gemini-1.5-flash
+    depends_on:
+      mongodb:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      chromadb:
+        condition: service_healthy
+    networks:
+      - bid_network
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: bidengine_frontend
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_API_URL=http://localhost:8000
+    depends_on:
+      backend:
+        condition: service_healthy
+    networks:
+      - bid_network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000"]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+
+  init:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: bidengine_init
+    command: >
+      bash -c "
+        echo 'Waiting for backend healthcheck...' &&
+        sleep 5 &&
+        python scripts/train_win_scorer.py &&
+        python scripts/seed_capability_library.py &&
+        python scripts/seed_demo_workspace.py &&
+        echo 'Initialization complete!'
+      "
+    environment:
+      - MONGODB_URL=mongodb://mongodb:27017/bidengine
+      - REDIS_URL=redis://redis:6379/0
+      - CHROMA_HOST=chromadb
+      - CHROMA_PORT=8000
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - LLM_PROVIDER=gemini
+      - MODEL_NAME=gemini-1.5-flash
+    depends_on:
+      backend:
+        condition: service_healthy
+    networks:
+      - bid_network
+
+volumes:
+  mongo_data:
+  chroma_data:
+
+networks:
+  bid_network:
+    driver: bridge
