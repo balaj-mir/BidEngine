@@ -32,6 +32,12 @@
 
 ## 🏗 System Architecture
 
+> [!NOTE]
+> **📚 Deep-Dive Technical Documentation & Workflow Specifications**
+> For exhaustive architectural specifications, data transformations, and sequence diagrams, please refer to our dedicated documentation suite:
+> * **[🏗 Complete System Architecture & Topology Specification](docs/SYSTEM_ARCHITECTURE.md)** (Full-stack design, AI pipelines, Vector search, and Docker layout)
+> * **[🔄 End-to-End Workflows & Sequence Diagrams](docs/COMPLETE_WORKFLOW.md)** (Detailed sequence diagrams across all 5 stages of the proposal lifecycle)
+
 BidEngine is architected as a modern decoupled full-stack application. The **Next.js 15 App Router** frontend provides a highly responsive, real-time 5-stage workflow workspace, communicating over REST/JSON with a high-concurrency **FastAPI** Python backend powering the AI and ML inference pipelines.
 
 ```mermaid
